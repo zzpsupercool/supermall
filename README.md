@@ -18,6 +18,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
-readzzp
-read2
+branch2 看看你
