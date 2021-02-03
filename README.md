@@ -16,7 +16,6 @@ npm run build
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
-branch1
-看看这个怎么处理
+
+删除了这些奇怪的东西
