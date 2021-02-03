@@ -18,6 +18,8 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+branch2 看看你
+=======
 
 this is branch3
 readzzp
